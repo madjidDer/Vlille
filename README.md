@@ -1,8 +1,4 @@
 # Projet Vélos Libre Service Vlille 
-## Binôme
-
-    Madjid DERMEL
-    Manil DIAF
 
 ## Introduction
 
@@ -11,12 +7,6 @@
 ## HowTo : 
 
 ### Récupérer les sources du projet
-
-- Pour récupérer les sources du projet, vous pouvez cloner le dépôt depuis GitLab en utilisant la commande suivante :
-
-```bash
-git clone https://gitlab-etu.fil.univ-lille.fr/manil.diaf.etu/vlille_diaf_dermel.git
-```
 
 ### Générer la documentation
 
